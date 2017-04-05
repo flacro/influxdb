@@ -39,6 +39,7 @@
 - [#8177](https://github.com/influxdata/influxdb/issues/8177): Fix racy integration test.
 - [#8230](https://github.com/influxdata/influxdb/issues/8230): Prevent overflowing or underflowing during window computation.
 - [#8058](https://github.com/influxdata/influxdb/pull/8058): Enabled golint for admin, httpd, subscriber, udp. @karlding
+- [#8066](https://github.com/influxdata/influxdb/issues/8066): Fix LIMIT and OFFSET for certain aggregate queries.
 
 ## v1.2.3 [unreleased]
 
